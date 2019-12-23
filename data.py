@@ -5,7 +5,7 @@ import binascii
 
 '''
     1.用来处理和存储数据压力测试数据
-    asdfa
+    asdfasdfgsdggfsd
 '''
 
 host = "139.224.133.113"    #ip地址
