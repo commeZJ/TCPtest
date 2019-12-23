@@ -1,6 +1,8 @@
 #coding：utf-8
 import time
-
+'''
+asdfa
+'''
 
 str_origin = input("请输入你要解析的报文：")
 # str_origin = "aa5502a400045da7d574"
